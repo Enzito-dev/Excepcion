@@ -24,9 +24,10 @@ public class divisiones {
             //comportamiento del programa ante el error
             System.out.println("error : " + e);
         } finally {
-            System.out.println("gracias por dividir con enzo´s program");
+            System.out.println("Gracias por dividir con enzo's program");
+            System.out.println("Este programa esta aprobado by Hernan Cano's pinga, el codigo es bellisimo Don Enzito"
         }
-        /*el finally ejecuta un bloque de codigo sin importar el resultado del programa*/
+        //el finally ejecuta un bloque de codigo sin importar el resultado del programa
         System.out.println("probando el nuevo servicio");
     }
 }
